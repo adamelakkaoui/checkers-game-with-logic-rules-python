@@ -26,10 +26,6 @@ python checkers.py
 python -m unittest discover -s tests -v
 ```
 
-## Limitations
-
-The interface is text-only. The original report mentions informal performance and user tests, but no test suite or raw timing data accompanied the submission; only the checks in this repository are reproducible.
-
 ## Authors
 
 - Adam El Akkaoui
@@ -44,4 +40,4 @@ No video or external dataset was found.
 
 ## Testing and limitations
 
-On Python 3.11, four tests passed for initial setup, mandatory capture, promotion and legal Minimax selection; byte-compilation also passed. Full interactive play was not automated. The portfolio correction preserves pedagogical French naming while fixing evaluation from the intended player's perspective.
+On Python 3.11, four tests passed for initial setup, mandatory capture, promotion and legal Minimax selection; byte-compilation also passed. Full interactive play was not automated. The interface is text-only, and no raw timing data accompanied the report's informal performance/user-test claims. The portfolio correction preserves pedagogical French naming while fixing evaluation from the intended player's perspective.
