@@ -34,3 +34,14 @@ The interface is text-only. The original report mentions informal performance an
 
 - Adam El Akkaoui
 - Mohammed Zaidouh
+
+## Academic artefacts
+
+- [French academic report (PDF)](docs/academic-report-fr.pdf)
+- [French presentation (PPTX)](presentations/checkers-presentation-fr.pptx)
+
+No video or external dataset was found.
+
+## Testing and limitations
+
+On Python 3.11, four tests passed for initial setup, mandatory capture, promotion and legal Minimax selection; byte-compilation also passed. Full interactive play was not automated. The portfolio correction preserves pedagogical French naming while fixing evaluation from the intended player's perspective.
