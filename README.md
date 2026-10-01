@@ -21,7 +21,6 @@ Python 3.10+; no third-party packages are required.
 
 ```bash
 python checkers.py
-python -m unittest discover -s tests -v
 ```
 
 ## Authors
