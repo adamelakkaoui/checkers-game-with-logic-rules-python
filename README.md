@@ -1,7 +1,5 @@
 # Checkers Game with Logic Rules – Python
 
-![SEARCH & LOGIC — Checkers, Minimax and alpha-beta pruning](assets/portfolio-banner.svg)
-
 Console-based academic checkers game implemented with Python classes and a Minimax opponent using alpha-beta pruning.
 
 ## Features
@@ -12,8 +10,6 @@ Console-based academic checkers game implemented with Python classes and a Minim
 - Long-range movement and capture for kings.
 - Human-versus-human and human-versus-AI console modes.
 - Position evaluation and depth-limited Minimax with alpha-beta pruning.
-
-
 
 ## Requirements and use
 
@@ -32,7 +28,6 @@ python checkers.py
 
 - [French academic report (PDF)](docs/academic-report-fr.pdf)
 - [French presentation (PPTX)](presentations/checkers-presentation-fr.pptx)
-
 
 ## Tests, results and limitations
 
