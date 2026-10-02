@@ -1,5 +1,8 @@
 # Checkers Game with Logic Rules – Python
 
+![SEARCH & LOGIC — Checkers, Minimax and alpha-beta pruning](assets/portfolio-banner.svg)
+
+
 Console-based academic checkers game implemented with Python classes and a Minimax opponent using alpha-beta pruning.
 
 ## Features
